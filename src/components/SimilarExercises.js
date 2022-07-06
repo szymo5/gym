@@ -1,4 +1,6 @@
-const SimilarExercises = () => {
+
+
+const SimilarExercises = ({targetMuscleExercises, equipmentExercises}) => {
     return ( <div></div> );
 }
  
